@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ffk2Vhs7jor/PrDBaKEYKiQribM6cuRPOOfN8FQLsqloJx8E+SgnP2wVnO1COoxUaAXlAbuuUzno3YYesFrNoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\misamsonov\\RiderProjects\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\misamsonov\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0-preview.2.23128.3\\microsoft.win32.systemevents.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\system.drawing.common\\8.0.0-preview.2.23128.3\\system.drawing.common.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\xunit.assert\\2.4.1\\xunit.assert.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

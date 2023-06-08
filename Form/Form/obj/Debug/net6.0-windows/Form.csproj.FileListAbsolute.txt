@@ -1,0 +1,15 @@
+C:\Users\misamsonov\RiderProjects\NeuralNetwork\NeuralNetwork\Form\Form\obj\Debug\net6.0-windows\Form.csproj.AssemblyReference.cache
+C:\Users\misamsonov\RiderProjects\NeuralNetwork\NeuralNetwork\Form\Form\obj\Debug\net6.0-windows\Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misamsonov\RiderProjects\NeuralNetwork\NeuralNetwork\Form\Form\obj\Debug\net6.0-windows\Form.AssemblyInfoInputs.cache
+C:\Users\misamsonov\RiderProjects\NeuralNetwork\NeuralNetwork\Form\Form\obj\Debug\net6.0-windows\Form.AssemblyInfo.cs
+C:\Users\misamsonov\RiderProjects\NeuralNetwork\NeuralNetwork\Form\Form\obj\Debug\net6.0-windows\Form.csproj.CoreCompileInputs.cache
+C:\Users\misamsonov\RiderProjects\NeuralNetwork\NeuralNetwork\Form\Form\bin\Debug\net6.0-windows\Form.exe
+C:\Users\misamsonov\RiderProjects\NeuralNetwork\NeuralNetwork\Form\Form\bin\Debug\net6.0-windows\Form.deps.json
+C:\Users\misamsonov\RiderProjects\NeuralNetwork\NeuralNetwork\Form\Form\bin\Debug\net6.0-windows\Form.runtimeconfig.json
+C:\Users\misamsonov\RiderProjects\NeuralNetwork\NeuralNetwork\Form\Form\bin\Debug\net6.0-windows\Form.dll
+C:\Users\misamsonov\RiderProjects\NeuralNetwork\NeuralNetwork\Form\Form\bin\Debug\net6.0-windows\Form.pdb
+C:\Users\misamsonov\RiderProjects\NeuralNetwork\NeuralNetwork\Form\Form\obj\Debug\net6.0-windows\Form.dll
+C:\Users\misamsonov\RiderProjects\NeuralNetwork\NeuralNetwork\Form\Form\obj\Debug\net6.0-windows\refint\Form.dll
+C:\Users\misamsonov\RiderProjects\NeuralNetwork\NeuralNetwork\Form\Form\obj\Debug\net6.0-windows\Form.pdb
+C:\Users\misamsonov\RiderProjects\NeuralNetwork\NeuralNetwork\Form\Form\obj\Debug\net6.0-windows\Form.genruntimeconfig.cache
+C:\Users\misamsonov\RiderProjects\NeuralNetwork\NeuralNetwork\Form\Form\obj\Debug\net6.0-windows\ref\Form.dll

@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b35de56f_002D1336_002D4564_002Da819_002De887ded29761/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FeedForwardTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3202BAA3-7AC1-4804-A8CA-749117C25D0A::net6.0::Tests.FeedForwardTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3202BAA3-7AC1-4804-A8CA-749117C25D0A::net6.0::Tests.DatasetTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3202BAA3-7AC1-4804-A8CA-749117C25D0A::net6.0::NeuralNetworkTests.PictureConverterTest.ConverterTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3202BAA3-7AC1-4804-A8CA-749117C25D0A::net6.0::Tests.RecognizeImages&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
